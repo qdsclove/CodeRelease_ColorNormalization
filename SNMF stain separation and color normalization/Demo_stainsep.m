@@ -4,7 +4,7 @@ clc
 close all
 
 % Read input image
-I=imread('images\he.png');
+I=imread('images/he.png');
 
 % Parameters
 nstains=2;    % number of stains
